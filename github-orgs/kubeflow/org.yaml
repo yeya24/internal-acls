@@ -11,11 +11,11 @@ orgs:
         - franciscojavierarceo
         - google-oss-robot
         - googlebot
+        - chasecadet
         - james-jwu
-        - johnugeorge
-        - juliusvonkohout 
+        - juliusvonkohout
         - krook
-        - terrytangyuan
+        - thesuperzapper
         - thelinuxfoundation
         - zijianjoy
         billing_email: vishnukanan@gmail.com
@@ -28,18 +28,26 @@ orgs:
         has_repository_projects: true
         location: ""
         members:
+        - roburishabh
         - 8bitmp3
         - abcdefgs0324
         - abchoo
         - abhi-g
+        - abhi1092
+        - abhijeet-dhumal
+        - abhishekKokadwar
         - abkosar
         - achalshant
+        - ada333
+        - AdamKorcz
         - adrian555
         - adriangonz
         - adysenrothman
+        - aholten
         - ahousley
         - ajchili
         - Akado2009
+        - akagami-harsh
         - akartsky
         - akgraner
         - akshaychitneni
@@ -50,6 +58,7 @@ orgs:
         - alexlatchford
         - alexmt
         - alfsuse
+        - alimaredia
         - alinakuz
         - alsrgv
         - alyssacgoins
@@ -59,6 +68,7 @@ orgs:
         - andyatmiami
         - anencore94
         - anfeng
+        - aniket2405
         - animeshsingh
         - anishasthana
         - annajung
@@ -67,6 +77,7 @@ orgs:
         - Arhell
         - Ark-kun
         - aronchick
+        - asaadbalum
         - ashahab
         - ashahba
         - astefanutti
@@ -74,14 +85,18 @@ orgs:
         - aws-kf-ci-bot
         - axel7083
         - axsaucedo
+        - abdallahsamabd
         - b675987273
         - balajismaniam
+        - beatsmonster
         - beberg
         - berndverst
         - bhupc
+        - BieniekAlexander
         - bikramnehra
         - biswajit-9776
         - bmorphism
+        - briangallagher
         - Bobgy
         - c-bata
         - ca-scribner
@@ -90,10 +105,11 @@ orgs:
         - CarterFendley
         - carmark
         - carmine
+        - cbartram
         - ccarpentiere
         - ChanYiLin
         - chaselyall
-        - chasecadet
+        - chambridge
         - chauhang
         - cheimu
         - ChenYi015
@@ -107,26 +123,30 @@ orgs:
         - connor-mccarthy
         - ConnorDoyle
         - Crazyglue
+        - christian-heusel
         - christianvogt
         - crobby
         - cspavlou
         - cvenets
         - cwbeitel
+        - cybernagle
         - dandawg
+        - danish9039
         - danisla
         - Davidnet
         - DavidSpek
         - davidxia
         - dbasunag
         - ddutta
-        - ddysher
         - deepak-muley
         - deepanker13
         - DeeperMind
         - deepk2u
         - DeliangFan
+        - demarna1
         - denkensk
         - derekhh
+        - dhanishaphadate
         - DharmitD
         - dhirajsb
         - diegolovison
@@ -137,6 +157,7 @@ orgs:
         - dmueller2001
         - DnPlas
         - DomFleischmann
+        - Dominikkawka
         - Doris-xm
         - dpoulopoulos
         - dreamryx
@@ -160,7 +181,9 @@ orgs:
         - ellistarn
         - elsonrodriguez
         - elviraux
+        - eoinfennessy
         - erikerlandson
+        - eshwarprasadS
         - eterna2
         - evan-hataishi
         - everpeace
@@ -168,16 +191,19 @@ orgs:
         - ewilderj
         - fakeskimo
         - fediazgon
+        - fege
         - fenglixa
+        - Fiona-Waters
         - fisherxu
         - gabrielwen
+        - gangli113
         - gaocegege
         - gaoning777
         - garganubhav
         - Garrybest
         - gkcalat
         - gmfrasca
-        - google-admin
+        - Goku2099
         - goswamig
         - gregsheremeta
         - greynutw
@@ -189,10 +215,13 @@ orgs:
         - gyliu513
         - hackerboy01
         - hamelsmu
+        - hmtosi
         - hansinikarunarathne
+        - harshad16
         - hbelmiro
         - helenxie-bit
         - helloericsf
+        - herikwebb
         - hilcj
         - hmtai
         - holdenk
@@ -203,21 +232,26 @@ orgs:
         - iancoffey
         - idvoretskyi
         - ifilonenko
+        - immanuwell
         - impsy
         - inc0
         - ioandr
-        - isinyaaa
         - IRONICBo
         - IronPan
         - jacobsalway
+        - jaewak
         - jagadeeshi2i
+        - jaiakash
         - janeman98
         - jasonliu747
         - jbottum
         - Jeffwan
+        - jeffspahr
         - jenny-s51
+        - JerT33
         - jessesuen
         - jessiezcc
+        - jesuino
         - ji-yaqi
         - jiahaoc1993
         - jian-he
@@ -234,6 +268,8 @@ orgs:
         - JOCSTAA
         - joeliedtke
         - JohanWork
+        - johnugeorge
+        - jonburdo
         - Jose-Matsuda
         - jose5918
         - JosepSampe
@@ -241,12 +277,17 @@ orgs:
         - jrykr
         - js-ts
         - jsitu777
+        - jsonmp-k8
         - jstamel
         - jtfogarty
+        - jtu-ampere
         - judahrand
         - junggil
         - jzp1025
+        - kaikaila
+        - kaisoz
         - kandrio
+        - kannon92
         - karlschriek
         - karthikv2k
         - katieole
@@ -256,18 +297,22 @@ orgs:
         - KevinGrantLee
         - kevinstumpf
         - kevinyu98
+        - khushiiagrawal
         - kimwnasptd
         - KingOnTheStar
         - kkasravi
         - kmarquardsen
+        - kmr-rohit
         - knkski
         - kramachandran
         - kramaranya
+        - Krishna-kg732
         - krishnadurai
         - kromanow94
         - krzyzacy
         - kubeflow-bot
         - kuizhiqing
+        - kunal-511
         - kunmingg
         - kwasi
         - lalithvaka
@@ -282,13 +327,17 @@ orgs:
         - Linchin
         - liuqi
         - lowang-bh
+        - LogicalGuy77
         - lresende
         - lucferbux
+        - lugi0
         - luotigerlsx
         - lynnmatrix
         - MaanavD
+        - madmecodes
         - mahdikhashan
         - mameshini
+        - manaswinidas
         - marcoceppi
         - MartinForReal
         - mattf
@@ -301,20 +350,25 @@ orgs:
         - milosjava
         - mitake
         - mkbhanda
+        - modichika
         - moficodes
+        - MonicaZhang1
         - mosabami
         - moxyoron
         - mprahl
         - mpvartak
         - MrXinWang
+        - mturley
         - mukulikak
         - mvlassis
         - mwielgus
+        - myesmin
         - nabuskey
         - nachocano
         - nagar-ajay
         - nakfour
         - naveensrinivasan
+        - Neilblaze
         - netankit
         - neuromage
         - nicholas-abad
@@ -323,21 +377,31 @@ orgs:
         - nilspohlmann
         - NohaIhab
         - nqn
+        - nsingla
+        - ntny
         - numerology
         - ohmystack
         - ojarjur
         - orfeas-k
+        - osamaahmed17
         - ouadakarim
         - owlet42
+        - owmasch
         - PatrickXYS
         - paulovmr
         - PaulinaPacyna
         - paveldournov
         - pboyd
         - pdmack
+        - philip-carneiro
         - pineking
         - pingsutw
+        - ppadti
+        - pratik-naik003
         - pratyusharavi
+        - priyank766
+        - Priyanshu-u07
+        - pschoen-itsc
         - pugangxa
         - puneith
         - pvaneck
@@ -353,18 +417,22 @@ orgs:
         - randxie
         - rareddy
         - raviranjan0309
+        - Raakshass
         - rawc0der
         - Realsen
         - rebeccamcfadden
         - RedbackThomson
         - revit13
+        - richabanker
         - richardsliu
         - rickyxie0929
         - rimolive
         - rlenferink
+        - robert-bell
         - rongou
         - roytman
         - rpasricha
+        - rudeigerc
         - rui5i
         - Ruminateer
         - ryandawsonuk
@@ -373,27 +441,33 @@ orgs:
         - ryansteakley
         - ryantd
         - SachinVarghese
+        - saivedant169
         - salanki
         - salehay
         - sambaiz
         - sandipanpanda
-        - sarahmaddox
         - sasha-gitg
         - saurabh24292
         - ScorpioCPH
         - scottilee
         - ScrapCodes
+        - sduvvuri1603
         - sen-sam
         - seong7
         - shannonbradshaw
+        - Sharkyii
         - shawnzhu
         - shbijlan
         - shekharrajak
         - shinytang6
+        - shivchander
         - shrinath-suresh
         - sijieamoy
+        - siyuanfoundation
+        - Snehadas2005
         - songole
         - sperlingxx
+        - Sridhar1030
         - sshrdp
         - StefanoFioravanzo
         - stpabhi
@@ -406,19 +480,23 @@ orgs:
         - Swikar
         - syntaxsdev
         - Syulin7
+        - szaher
         - Tabrizian
         - tarekabouzeid
         - tarilabs
+        - tariq-hasan
         - tasos-ale
         - tedhtchang
         - tenzen-y
+        - terrytangyuan
         - texasmichelle
         - thaorell
         - thedriftofwords
         - theofpa
-        - thesuperzapper
+        - thisis-Shitanshu
         - tmckayus
         - TobiasGoerke
+        - tolgatuncoglu
         - tombuuz
         - Tomcli
         - toshi-k
@@ -426,9 +504,11 @@ orgs:
         - vara-bonthu
         - varodrig
         - vditya
+        - Vedant-Deshpande
         - vikas-saxena02
         - vincent-pli
         - vishh
+        - vjanelle
         - vkoukis
         - vpavlin
         - vrajjbhatt
@@ -448,7 +528,7 @@ orgs:
         - xychu
         - xyhuang
         - yanniszark
-        - yebrahim
+        - yashpal2104
         - yeya24
         - yhwang
         - yilun-msft
@@ -459,6 +539,7 @@ orgs:
         - yubozhao
         - yuchaoran2011
         - YujiOshima
+        - YuliaKrimerman
         - yupbank
         - yuzisun
         - yuzliu
@@ -468,7 +549,6 @@ orgs:
         - zhenghuiwang
         - zhujl1991
         - ziamsyed
-        - zichuan-scott-xu
         - zjj2wry
         - zpChris
         - zw0610
@@ -544,6 +624,12 @@ orgs:
             allow_squash_merge: false
             description: Kubeflow Central Dashboard is the web interface for Kubeflow
             has_projects: true
+          docs-agent:
+            allow_merge_commit: false
+            allow_rebase_merge: false
+            allow_squash_merge: false
+            description: Kubeflow Documentation AI Agent to power the Kubeflow Website
+            has_projects: true
           example-seldon:
             allow_merge_commit: false
             allow_rebase_merge: false
@@ -610,11 +696,11 @@ orgs:
             allow_squash_merge: false
             description: Machine Learning Toolkit for Kubernetes
             has_projects: true
-          manifests:
+          community-distribution:
             allow_merge_commit: false
             allow_rebase_merge: false
             allow_squash_merge: false
-            description: A repository for Kustomize manifests
+            description: A repository for Kubeflow Community Distribution
             has_projects: true
           marketing-materials:
             allow_merge_commit: false
@@ -696,229 +782,6 @@ orgs:
             description: Incubating project for xgboost operator
             has_projects: true
         teams:
-          Arrikto:
-            description: Team of members from Arrikto
-            members:
-            - cvenets
-            - elikatsis
-            - jbottum
-            - kimwnasptd
-            - StefanoFioravanzo
-            - tasos-ale
-            - vkoukis
-            - yanniszark
-            privacy: closed
-          AWS:
-            description: Team of members from AWS
-            members:
-            - akartsky
-            - ananth102
-            - jsitu777
-            - RedbackThomson
-            - ryansteakley
-            - surajkota
-            privacy: closed
-          Azure:
-            description: Team of members from Azure
-            members:
-            - berndverst
-            - dtzar
-            - eedorenko
-            - mosabami
-            - sudivate
-            - yilun-msft
-            privacy: closed
-          Caicloud:
-            description: Team of members from Caicloud
-            members:
-            - codeflitting
-            - ddysher
-            - gaocegege
-            privacy: closed
-          Cisco:
-            description: Team of members from Cisco
-            members:
-            - Akado2009
-            - ddutta
-            - elviraux
-            - garganubhav
-            - krishnadurai
-            - libbyandhelen
-            - ramdootp
-            - swiftdiaries
-            - xyhuang
-            privacy: closed
-            repos:
-              kubebench: write
-          Google:
-            description: Team of members from Google
-            members:
-            - alinakuz
-            - avdaredevil
-            - bhupc
-            - capri-xiyue
-            - chensun
-            - chrisheecho
-            - cjwagner
-            - connor-mccarthy
-            - danisla
-            - dushyanthsc
-            - ewilderj
-            - gabrielwen
-            - gkcalat
-            - IronPan
-            - james-jwu
-            - ji-yaqi
-            - jlyaoyuli
-            - JOCSTAA
-            - junggil
-            - karthikv2k
-            - KevinGrantLee
-            - krzyzacy
-            - kunmingg
-            - Linchin
-            - luotigerlsx
-            - moxyoron
-            - nachocano
-            - neuromage
-            - ojarjur
-            - ouadakarim
-            - PaulinaPacyna
-            - pratyusharavi
-            - quanjielin
-            - r2d4
-            - Realsen
-            - rickyxie0929
-            - ryanjung-jm
-            - sarahmaddox
-            - sasha-gitg
-            - saurabh24292
-            - sen-sam
-            - texasmichelle
-            - vishh
-            - yixinshi
-            - zabbasi
-            - zhenghuiwang
-            - ziamsyed
-            - zichuan-scott-xu
-            - zijianjoy
-            - zpChris
-            - zzmao
-            privacy: closed
-          google-admins:
-            description: Googlers to ping for help regarding Kubeflow's GitHub org and Google Groups
-            members:
-            - chensun
-            - james-jwu
-            - IronPan
-            privacy: closed
-          Intel:
-            description: Team of members from Intel
-            members:
-            - ashahba
-            - kkasravi
-            - nqn
-            - balajismaniam
-            privacy: closed
-            repos:
-              pytorch-operator: admin
-          IBM:
-            description: Team of members from IBM
-            members:
-            - ckadner
-            - JosepSampe
-            - revit13
-            - roytman
-            - Tomcli
-            - yhwang
-            privacy: closed
-            repos:
-              kfp-tekton: write
-          Nutanix:
-            description: Team of members from Nutanix
-            members:
-            - johnugeorge
-            privacy: closed
-          Red Hat:
-            description: Team of members from Red Hat
-            members:
-            - adysenrothman
-            - Al-Pragliola
-            - alexcreasy
-            - andyatmiami
-            - anishasthana
-            - astefanutti
-            - caponetto
-            - Crazyglue
-            - christianvogt
-            - dandawg
-            - dbasunag
-            - DharmitD
-            - dhirajsb
-            - diegolovison
-            - ederign
-            - erikerlandson
-            - Griffin-Sullivan
-            - gmfrasca
-            - gregsheremeta
-            - hbelmiro
-            - HumairAK
-            - isinyaaa
-            - jenny-s51
-            - jiridanek
-            - liavweiss
-            - lucferbux
-            - paulovmr
-            - rareddy
-            - rimolive
-            - syntaxsdev
-            - tarilabs
-            - terrytangyuan
-            - thaorell
-            - YosiElias
-            privacy: closed
-          SUSE:
-            description: Team of members from SUSE
-            members:
-            - alfsuse
-            - gsantomaggio
-            privacy: closed
-          Seldon:
-            description: Team of members from Seldon
-            members:
-            - axsaucedo
-            - gsunner
-            - Maximophone
-            - ryandawsonuk
-            - SachinVarghese
-            privacy: closed
-            repos:
-              example-seldon: write
-          blog-admin-team:
-            description: Admins of `kubeflow/blog`
-            members:
-            - hamelsmu
-            privacy: closed
-            repos:
-              blog: admin
-          blog-team:
-            description: Maintainers of `kubeflow/blog`
-            members:
-            - hamelsmu
-            - jbottum
-            - jtfogarty
-            - terrytangyuan
-            privacy: closed
-            repos:
-              blog: write
-          caffe2-team:
-            description: Maintainers of `kubeflow/caffe2-operator`
-            members:
-            - carmark
-            - gaocegege
-            privacy: closed
-            repos:
-              caffe2-operator: write
           ci-bots:
             description: Team for bots
             members:
@@ -949,8 +812,8 @@ orgs:
               kfp-tekton: write
               kubebench: write
               kubeflow: write
-              manifests: write
-              model-registry: write
+              community-distribution: write
+              hub: write
               marketing-materials: write
               metadata: write
               mpi-operator: write
@@ -964,47 +827,6 @@ orgs:
               trainer: write
               website: write
               xgboost-operator: write
-          common-team:
-            description: Maintainers of `kubeflow/common`
-            members:
-            - gaocegege
-            - Jeffwan
-            - johnugeorge
-            - richardsliu
-            - terrytangyuan
-            privacy: closed
-            repos:
-              common: write
-          code-intelligence-team:
-            description: Maintainers of `kubeflow/code-intelligence`
-            members:
-            - hamelsmu
-            - jlewi
-            privacy: closed
-            repos:
-              code-intelligence: write
-          examples-team:
-            description: Maintainers of `kubeflow/examples`
-            members:
-            - jinchihe
-            - js-ts
-            privacy: closed
-            repos:
-              examples: write
-          github-actions:
-            description: Maintainers of GitHub Actions
-            members:
-            - abhi-g
-            - hamelsmu
-            - inc0
-            privacy: closed
-          fairing-release:
-            description: Maintainers of `kubeflow/fairing`
-            members:
-            - jinchihe
-            privacy: closed
-            repos:
-              fairing: write
           kf-kcc-admins:
             description: Team helping with shared Kubeflow community infra
             members:
@@ -1017,24 +839,52 @@ orgs:
             - yuzisun
             - yuzliu
             privacy: closed
-          kube-bench-team:
-            description: Maintainers of `kubeflow/kubebench`
+          kubeflow-hub-team:
+            description: Maintainers of `kubeflow/hub` (fka "Model Registry")
             members:
-            - gaocegege
-            - jlewi
-            - xyhuang
+            - adysenrothman
+            - Al-Pragliola
+            - ederign
+            - jonburdo
+            - pboyd
+            - rareddy
+            - tarilabs
             privacy: closed
             repos:
-              kubebench: write
+              hub: write
+          kubeflow-kale-team:
+            description: Maintainers of `kubeflow/kale`
+            members:
+            - ederign
+            - StefanoFioravanzo
+            - jesuino
+            privacy: closed
+            repos:
+              kale: write
+          kubeflow-sdk-team:
+            description: Maintainers of `kubeflow/sdk`
+            members:
+            - abhijeet-dhumal
+            - andreyvelich
+            - astefanutti
+            - Fiona-Waters
+            - kramaranya
+            - shekharrajak
+            - szaher
+            - tariq-hasan
+            privacy: closed
           kubeflow-trainer-team:
             description: Maintainers of `kubeflow/trainer`
             members:
+            - akshaychitneni
             - andreyvelich
-            - Electronic-Waste
-            - johnugeorge
+            - astefanutti
+            - robert-bell
             - terrytangyuan
             - tenzen-y
             privacy: closed
+            repos:
+              trainer: write
           mpi-operator-team:
             description: Maintainers of `kubeflow/mpi-operator`
             members:
@@ -1048,196 +898,183 @@ orgs:
             privacy: closed
             repos:
               mpi-operator: write
-          mxnet-operator-team:
-            description: Maintainers of `kubeflow/mxnet-operator`
-            members:
-            - Jeffwan
-            - suleisl2000
-            - terrytangyuan
-            - wackxu
-            privacy: closed
-            repos:
-              mxnet-operator: write
-          oncall-testing:
-            description: Maintainers of `kubeflow/testing`
-            members:
-            - PatrickXYS
-            - zijianjoy
-            privacy: closed
-            repos:
-              testing: write
-          pipelines:
-            description: Maintainers of `kubeflow/pipelines`
-            members:
-            - chaselyall
-            - chensun
-            - connor-mccarthy
-            - gkcalat
-            - hilcj
-            - IronPan
-            - james-jwu
-            - jlyaoyuli
-            - JOCSTAA
-            - joeliedtke
-            - KevinGrantLee
-            - Linchin
-            - rickyxie0929
-            - rui5i
-            - sasha-gitg
-            - zijianjoy
-            - zzmao
-            privacy: closed
-            repos:
-              pipelines: write
           kubeflow-outreach-committee:
             description: Kubeflow Outreach Committee
             members:
-            - chasecadet
-            - varodrig
+            - Dominikkawka
+            - jaiakash
             - StefanoFioravanzo
+            - tarekabouzeid
+            - varodrig
+            - yashpal2104
             privacy: closed
+          kubeflow-distribution-committee:
+            description: Kubeflow Distribution Committee
+            members:
+            - juliusvonkohout
+            - tarekabouzeid
+            privacy: closed
+            repos:
+              community-distribution: write
+          kubeflow-notebooks-security:
+            description: Security reviewer role in kubeflow/notebooks
+            members:
+            - andyatmiami
+            - ederign
+            - liavweiss
+            - paulovmr
+            - thesuperzapper
+            privacy: closed
+            repos:
+              # NOTE: we have created a custom "security" role on the Kubeflow org which inherits from the "read" role:
+              #       https://docs.github.com/en/enterprise-cloud@latest/organizations/managing-user-access-to-your-organizations-repositories/managing-repository-roles/about-custom-repository-roles
+              #       this is because peribolos only knows the standard roles, but will NOT remove the custom role as long as its inherited role is listed here.
+              notebooks: read
           kubeflow-steering-committee:
             description: Kubeflow Steering Committee; Defined by Kubeflow governance
             members:
             - andreyvelich
+            - chasecadet
             - franciscojavierarceo
-            - johnugeorge
             - juliusvonkohout
-            - terrytangyuan
+            - thesuperzapper
             privacy: closed
           release-managers:
             description: Kubeflow Release Team - Managers
             members:
-              - varodrig
+            - Dominikkawka
+            - juliusvonkohout
+            - tarekabouzeid
             privacy: closed
             repos:
               kubeflow: write
-              manifests: write
+              community-distribution: write
               website: write
           release-team:
             description: Kubeflow Release Team
             members:
-            - StefanoFioravanzo
-            - rimolive
-            - nagar-ajay
-            - thesuperzapper
-            - ca-scribner
-            - juliusvonkohout
-            - varodrig
+            - adysenrothman
+            - alyssacgoins
+            - christian-heusel
+            - dhanishaphadate
+            - Dominikkawka
+            - nabuskey
+            - robert-bell
+            - tarekabouzeid
+            - vrajjbhatt
             privacy: closed
-          third-party-bots-1321:
-            description: Team for third party bots
+          security-team:
+            description: Security reviewer role in Kubeflow projects
             members:
-            - aws-kf-ci-bot
-            privacy: closed
-            repos:
-              katib: write
-              kfctl: write
-              kfp-tekton: write
-              kubeflow: write
-              manifests: write
-              pytorch-operator: write
-              trainer: write
-              xgboost-operator: write
-          wg-automl-leads:
-            description: Team of AutoML Working Group leads
-            members:
+            - abhijeet-dhumal
+            - AdamKorcz
+            - alimaredia
             - andreyvelich
-            - gaocegege
+            - andyatmiami
+            - astefanutti
+            - ChenYi015
+            - droctothorpe
+            - ederign
+            - Electronic-Waste
+            - franciscojavierarceo
+            - jaiakash
+            - jeffspahr
             - johnugeorge
+            - jonburdo
+            - juliusvonkohout
+            - HumairAK
+            - kimwnasptd
+            - kramaranya
+            - Krishna-kg732
+            - mprahl
+            - nabuskey
+            - paulovmr
+            - pboyd
+            - rareddy
+            - roburishabh
+            - szaher
+            - tarilabs
             - tenzen-y
+            - tariq-hasan
+            - terrytangyuan
+            - thesuperzapper
+            - vara-bonthu
+            - varodrig
+            - vikas-saxena02
+            - vjanelle
+            - zazulam
             privacy: closed
             repos:
-              katib: write
-          wg-data-leads:
-            description: Team of Data Working Group leads
+              # NOTE: we have created a custom "security" role on the Kubeflow org which inherits from the "read" role:
+              # https://docs.github.com/en/enterprise-cloud@latest/organizations/managing-user-access-to-your-organizations-repositories/managing-repository-roles/about-custom-repository-roles
+              # This is because peribolos only knows the standard roles, but will NOT remove the custom role as long as its inherited role is listed here.
+              mcp-server: read
+              katib: read
+              community-distribution: read
+              hub: read
+              notebooks: read
+              pipelines: read
+              sdk: read
+              spark-operator: read
+              trainer: read
+          wg-data-chairs:
+            description: Team of Data Working Group Chairs
             members:
-            - Al-Pragliola
             - andreyvelich
             - ChenYi015
-            - ckadner
-            - tarilabs
-            - Tomcli
+            - franciscojavierarceo
+            - jonburdo
+            - nabuskey
             - rareddy
+            - tarilabs
             - vara-bonthu
-            - yuchaoran2011
             privacy: closed
             repos:
-              model-registry: write
+              hub: write
               spark-operator: write
-          wg-deployment-leads:
-            description: Team of Deployment Working Group leads
+              mcp-apache-spark-history-server: write
+          wg-ml-experience-chairs:
+            description: Team of ML Experience Working Group Chairs
             members:
-            - animeshsingh
-            - mameshini
-            - PatrickXYS
-            - vpavlin
-            - yanniszark
+            - andreyvelich
+            - ederign
+            - StefanoFioravanzo
             privacy: closed
             repos:
-              kfctl: write
-          wg-manifests-leads:
-            description: Team of Manifests Working Group Leads
+              kale: write
+              mcp-server: write
+              sdk: write
+          wg-notebooks-chairs:
+            description: Team of Notebooks Working Group Chairs
             members:
-            - juliusvonkohout
-            - kimwnasptd
-            privacy: closed
-            repos:
-              manifests: write
-          wg-notebooks-leads:
-            description: Team of Notebooks Working Group leads
-            members:
-            - kimwnasptd
+            - andyatmiami
             - thesuperzapper
             privacy: closed
             repos:
               dashboard: write
-              kubeflow: write
               notebooks: write
-          wg-pipeline-leads:
-            description: Team of Pipeline Working Group leads
+          wg-pipeline-chairs:
+            description: Team of Pipelines Working Group Chairs
             members:
-            - animeshsingh
             - chensun
-            - james-jwu
-            - IronPan
-            - zijianjoy
+            - droctothorpe
+            - HumairAK
+            - mprahl
+            - zazulam
             privacy: closed
-          wg-training-leads:
-            description: Team of Training Working Group leads
+            repos:
+              mlflow-integration: write
+              pipelines: write
+              pipelines-components: write
+          wg-training-chairs:
+            description: Team of Training Working Group Chairs
             members:
             - andreyvelich
-            - gaocegege
-            - Jeffwan
-            - johnugeorge
-            - terrytangyuan
+            - astefanutti
             - tenzen-y
-            privacy: closed
-            repos:
-              caffe2-operator: write
-              chainer-operator: write
-              common: write
-              fate-operator: write
-              mpi-operator: write
-              mxnet-operator: write
-              pytorch-operator: write
-              sdk: write
-              trainer: write
-              xgboost-operator: write
-          web-team:
-            description: Maintainers of `kubeflow/website`
-            members:
-            - connor-mccarthy
-            privacy: closed
-            repos:
-              website: write
-          xgboost-operator-team:
-            description: Maintainers of `kubeflow/xgboost-operator`
-            members:
-            - johnugeorge
-            - merlintang
-            - richardsliu
             - terrytangyuan
             privacy: closed
             repos:
-              xgboost-operator: write
+              katib: write
+              mpi-operator: write
+              trainer: write
